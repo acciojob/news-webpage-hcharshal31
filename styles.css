@@ -44,7 +44,8 @@ div{
 
 .pictorial-news-section{
 	width: 300px;
-	border-radius: 10px
+	border-radius: 10px;
+	text-align: center;
 }
 
 img{
